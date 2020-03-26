@@ -5,7 +5,7 @@ public class CopyArray {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		  int [] arr1 = new int [] {1, 2, 3, 4, 5};     
+		  int [] arr1 = new int [] {10, 11, 13, 14, 15};     
 	         //Create another array arr2 with size of arr1    
 	        int arr2[] = new int[arr1.length];    
 	        //Copying all elements of one array into another    
