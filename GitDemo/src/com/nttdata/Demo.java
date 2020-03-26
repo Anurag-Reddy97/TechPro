@@ -9,10 +9,10 @@ public class Demo {
    Scanner sc = new Scanner(System.in);
    System.out.println("Enter the  name :");
    String str =sc.next();
-   System.out.println("enter age");
-   int age=sc.nextInt();
+   System.out.println("enter year");
+   int year=sc.nextInt();
    System.out.println(str);
-   System.out.println(age);
+   System.out.println(year);
 	}
 
 }
